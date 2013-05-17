@@ -1,3 +1,3 @@
 #Rails
 
-This is my first attempt to learn Ruby on Rails [omg] by [*Sergio Felgueres*](http://onemonthrails.com)
+This is the readme for the first app made by [*Sergio Felgueres*](https://twitter.com/sfelgueres)
